@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>IoT 云端监控 - 开发板温度曲线</title>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<style>
+  body { margin: 0; background: #f4f3ee; font-family: 'PingFang SC', Arial, sans-serif; }
+  #wrap { padding: 16px; }
+  #chart { width: 100%; height: 360px; background: #fff; border-radius: 12px; }
+  #info { margin-bottom: 8px; color: #6b7280; font-size: 13px; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <div id="info">最新温度：--°C · 数据点：0 个（每 5 秒自动刷新）</div>
+  <div id="chart"></div>
+</div>
+<script>
+  var chart = echarts.init(document.getElementById('chart'));
+  var info = document.getElementById('info');
+
+  function loadData() {
+    fetch('/api/data')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        if (!data || data.length === 0) {
+          info.textContent = '暂无数据（等板子发一条温度）';
+          return;
+        }
+        chart.setOption({
+          backgroundColor: 'transparent',
+          tooltip: { trigger: 'axis', confine: true },
+          grid: { left: 50, right: 18, top: 24, bottom: 30, containLabel: true },
+          xAxis: { type: 'category', data: data.map(function (d) { return d.ts; }),
+                   axisLabel: { color: '#555', fontSize: 11 } },
+          yAxis: { type: 'value', name: '温度（°C）',
+                   axisLabel: { color: '#555', fontSize: 11 } },
+          series: [{
+            type: 'line', smooth: true, symbol: 'circle', symbolSize: 4,
+            data: data.map(function (d) { return d.temp; }),
+            itemStyle: { color: '#8BC8EA' },
+            areaStyle: { color: 'rgba(139,200,234,0.25)' }
+          }]
+        });
+        var last = data[data.length - 1];
+        info.textContent = '最新温度：' + last.temp + '°C · 数据点：' + data.length + ' 个（每 5 秒自动刷新）';
+      })
+      .catch(function (e) { info.textContent = '接口请求失败：' + e; });
+  }
+
+  loadData();
+  setInterval(loadData, 5000);   // 每 5 秒刷新
+</script>
+</body>
+</html>
