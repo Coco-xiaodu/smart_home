@@ -1,3 +1,0 @@
-/home/lixiaodu/桌面/smart_home/yolo/build/CMakeFiles/yolo_ncnn_test.dir
-/home/lixiaodu/桌面/smart_home/yolo/build/CMakeFiles/edit_cache.dir
-/home/lixiaodu/桌面/smart_home/yolo/build/CMakeFiles/rebuild_cache.dir
