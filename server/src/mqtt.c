@@ -1,5 +1,6 @@
 #include <stdio.h> 
 #include <signal.h>
+#include <pthread.h>
 #include <stdlib.h> 
 #include <string.h> 
 #include <unistd.h> 
@@ -19,8 +20,62 @@
 #define SERVER_ADDRESS  "192.168.68.129"
 #define CLIENTID        "智能家居"
 
-
+static pthread_t g_cam_tid;
+static int g_cam_running = 0;
 static int g_stop = 0;
+
+static void *cam_thread(void *arg)
+{
+    (void)arg;
+    const char *cam_path = "/dev/video1";
+    FbDev fb;
+    CamDev cam;
+    uint32_t *rgb_buf = NULL;
+
+    if (fb_open(&fb) < 0) { printf("fb open fail\n"); goto out; }
+    if (cam_open(&cam, cam_path, 640, 480) < 0)
+    {
+        printf("cam open fail: %s\n", cam_path);
+        fb_close(&fb);
+        goto out;
+    }
+    if (cam_start_stream(&cam) < 0)
+    {
+        printf("stream start fail\n");
+        cam_close(&cam);
+        fb_close(&fb);
+        goto out;
+    }
+    rgb_buf = malloc(cam.width * cam.height * sizeof(uint32_t));
+    if (!rgb_buf)
+    {
+        printf("malloc rgb fail\n");
+        cam_close(&cam);
+        fb_close(&fb);
+        goto out;
+    }
+
+    printf("stream running, send off to exit\n");
+    while (!g_stop)
+    {
+        uint8_t *data;
+        uint32_t len;
+        if (cam_get_frame(&cam, &data, &len) < 0) break;
+        yuyv_to_xrgb8888(data, rgb_buf, cam.width, cam.height, cam.bytesperline);
+        scale_nearest(rgb_buf, fb.vmem, cam.width, cam.height, fb.width, fb.height);
+        cam_put_frame(&cam);
+    }
+
+    free(rgb_buf);
+    cam_close(&cam);
+    fb_close(&fb);
+    printf("exit ok\n");
+
+out:
+    g_cam_running = 0;
+    return NULL;
+}
+
 void sigint(int sig)
 {
     g_stop = 1;
@@ -61,55 +116,37 @@ static int msgarrvd(void *context, char *topicName, int topicLen,
     {
         pir_read();
     }
-    else if(strcmp("调取摄像头",topicName) == 0)
+    else if(strcmp("调取摄像头", topicName) == 0)
     {
-        const char *cam_path = "/dev/video1";
-        signal(SIGINT, sigint);
+        char *p = (char *)message->payload;
+        int   n = (int)message->payloadlen;
 
-        FbDev fb;
-        CamDev cam;
-
-        if (fb_open(&fb) < 0) {
-        printf("fb open fail\n");
-        return -1;
+        if(n >= 2 && strncmp(p, "on", 2) == 0)
+        {
+            if(g_cam_running)
+            {
+                printf("camera already running\n");
+            }
+            else
+            {
+                g_stop = 0;                      /* 关键：先复位 */
+                g_cam_running = 1;
+                if(pthread_create(&g_cam_tid, NULL, cam_thread, NULL) != 0)
+                {
+                    printf("create cam thread fail\n");
+                    g_cam_running = 0;
+                }
+            }
         }
-        if (cam_open(&cam, cam_path, 640, 480) < 0) {
-            printf("cam open fail: %s\n", cam_path);
-            fb_close(&fb);
-            return -1;
+        else if(n >= 3 && strncmp(p, "off", 3) == 0)
+        {
+            g_stop = 1;                          /* 线程下一帧退出 */
+            printf("camera stop requested\n");
         }
-        if (cam_start_stream(&cam) < 0) {
-            printf("stream start fail\n");
-            cam_close(&cam);
-            fb_close(&fb);
-            return -1;
+        else
+        {
+            printf("i don't no this command\n");
         }
-
-        uint32_t *rgb_buf = malloc(cam.width * cam.height * sizeof(uint32_t));
-        if (!rgb_buf) {
-            printf("malloc rgb fail\n");
-            cam_close(&cam);
-            fb_close(&fb);
-            return -1;
-        }
-        printf("stream running, ctrl+c exit\n");
-
-        while (!g_stop) {
-            uint8_t *data;
-            uint32_t len;
-            int idx = cam_get_frame(&cam, &data, &len);
-            if (idx < 0) break;
-
-            yuyv_to_xrgb8888(data, rgb_buf, cam.width, cam.height, cam.bytesperline);
-            scale_nearest(rgb_buf, fb.vmem, cam.width, cam.height, fb.width, fb.height);
-
-            cam_put_frame(&cam);
-        }
-
-        free(rgb_buf);
-        cam_close(&cam);
-        fb_close(&fb);
-        printf("exit ok\n");
     }
     else
     {
@@ -188,6 +225,12 @@ int mqtt_start(void)
     if(ret != MQTTCLIENT_SUCCESS)
     {
         printf("Failed to subscribe3, return code %d\n", ret);
+        return EXIT_FAILURE;    
+    }
+    ret = MQTTClient_subscribe(client, "调取摄像头", 0);
+    if(ret != MQTTCLIENT_SUCCESS)
+    {
+        printf("Failed to subscribe4, return code %d\n", ret);
         return EXIT_FAILURE;    
     }
 
