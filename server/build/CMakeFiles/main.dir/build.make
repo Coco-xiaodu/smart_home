@@ -156,10 +156,24 @@ CMakeFiles/main.dir/src/pir.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/pir.c.s"
 	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lixiaodu/桌面/smart_home/server/src/pir.c -o CMakeFiles/main.dir/src/pir.c.s
 
+CMakeFiles/main.dir/src/screen.c.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/screen.c.o: /home/lixiaodu/桌面/smart_home/server/src/screen.c
+CMakeFiles/main.dir/src/screen.c.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/main.dir/src/screen.c.o"
+	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/screen.c.o -MF CMakeFiles/main.dir/src/screen.c.o.d -o CMakeFiles/main.dir/src/screen.c.o -c /home/lixiaodu/桌面/smart_home/server/src/screen.c
+
+CMakeFiles/main.dir/src/screen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/screen.c.i"
+	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lixiaodu/桌面/smart_home/server/src/screen.c > CMakeFiles/main.dir/src/screen.c.i
+
+CMakeFiles/main.dir/src/screen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/screen.c.s"
+	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lixiaodu/桌面/smart_home/server/src/screen.c -o CMakeFiles/main.dir/src/screen.c.s
+
 CMakeFiles/main.dir/src/server.c.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/server.c.o: /home/lixiaodu/桌面/smart_home/server/src/server.c
 CMakeFiles/main.dir/src/server.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/main.dir/src/server.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/main.dir/src/server.c.o"
 	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/server.c.o -MF CMakeFiles/main.dir/src/server.c.o.d -o CMakeFiles/main.dir/src/server.c.o -c /home/lixiaodu/桌面/smart_home/server/src/server.c
 
 CMakeFiles/main.dir/src/server.c.i: cmake_force
@@ -170,6 +184,20 @@ CMakeFiles/main.dir/src/server.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/server.c.s"
 	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lixiaodu/桌面/smart_home/server/src/server.c -o CMakeFiles/main.dir/src/server.c.s
 
+CMakeFiles/main.dir/src/v4l2.c.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/v4l2.c.o: /home/lixiaodu/桌面/smart_home/server/src/v4l2.c
+CMakeFiles/main.dir/src/v4l2.c.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/main.dir/src/v4l2.c.o"
+	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/src/v4l2.c.o -MF CMakeFiles/main.dir/src/v4l2.c.o.d -o CMakeFiles/main.dir/src/v4l2.c.o -c /home/lixiaodu/桌面/smart_home/server/src/v4l2.c
+
+CMakeFiles/main.dir/src/v4l2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/src/v4l2.c.i"
+	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lixiaodu/桌面/smart_home/server/src/v4l2.c > CMakeFiles/main.dir/src/v4l2.c.i
+
+CMakeFiles/main.dir/src/v4l2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/src/v4l2.c.s"
+	/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lixiaodu/桌面/smart_home/server/src/v4l2.c -o CMakeFiles/main.dir/src/v4l2.c.s
+
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/src/dht11.c.o" \
@@ -178,7 +206,9 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/src/main.c.o" \
 "CMakeFiles/main.dir/src/mqtt.c.o" \
 "CMakeFiles/main.dir/src/pir.c.o" \
-"CMakeFiles/main.dir/src/server.c.o"
+"CMakeFiles/main.dir/src/screen.c.o" \
+"CMakeFiles/main.dir/src/server.c.o" \
+"CMakeFiles/main.dir/src/v4l2.c.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
@@ -189,11 +219,13 @@ main_EXTERNAL_OBJECTS =
 /home/lixiaodu/桌面/smart_home/server/main: CMakeFiles/main.dir/src/main.c.o
 /home/lixiaodu/桌面/smart_home/server/main: CMakeFiles/main.dir/src/mqtt.c.o
 /home/lixiaodu/桌面/smart_home/server/main: CMakeFiles/main.dir/src/pir.c.o
+/home/lixiaodu/桌面/smart_home/server/main: CMakeFiles/main.dir/src/screen.c.o
 /home/lixiaodu/桌面/smart_home/server/main: CMakeFiles/main.dir/src/server.c.o
+/home/lixiaodu/桌面/smart_home/server/main: CMakeFiles/main.dir/src/v4l2.c.o
 /home/lixiaodu/桌面/smart_home/server/main: CMakeFiles/main.dir/build.make
 /home/lixiaodu/桌面/smart_home/server/main: /home/lixiaodu/tools/paho.mqtt.c/install/lib/libpaho-mqtt3c.so
 /home/lixiaodu/桌面/smart_home/server/main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable /home/lixiaodu/桌面/smart_home/server/main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable /home/lixiaodu/桌面/smart_home/server/main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

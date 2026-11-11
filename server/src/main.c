@@ -5,8 +5,10 @@
 #include "pir.h"
 #include "mqtt.h"
 
+
 int main(void)
 {
+
     int temp;
     temp = led_init();               //先初始化硬件层（LED）
     if(temp < 0) 
@@ -27,6 +29,7 @@ int main(void)
         printf("初始化PIR失败\n");
         return -1;
     }
+
 
     //server_start(8888);              //再启动网络服务（阻塞）
     mqtt_start();

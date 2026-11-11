@@ -1,4 +1,5 @@
 #include <stdio.h> 
+#include <signal.h>
 #include <stdlib.h> 
 #include <string.h> 
 #include <unistd.h> 
@@ -12,9 +13,18 @@
 #include "http.h"
 #include "dht11.h"
 #include "pir.h"
+#include "screen.h"
+#include "v4l2.h"
 
 #define SERVER_ADDRESS  "192.168.68.129"
 #define CLIENTID        "智能家居"
+
+
+static int g_stop = 0;
+void sigint(int sig)
+{
+    g_stop = 1;
+}
 
 static void delivered(void *context, MQTTClient_deliveryToken dt) 
 { 
@@ -50,6 +60,56 @@ static int msgarrvd(void *context, char *topicName, int topicLen,
     else if(strcmp("人体感应",topicName) == 0)
     {
         pir_read();
+    }
+    else if(strcmp("调取摄像头",topicName) == 0)
+    {
+        const char *cam_path = "/dev/video1";
+        signal(SIGINT, sigint);
+
+        FbDev fb;
+        CamDev cam;
+
+        if (fb_open(&fb) < 0) {
+        printf("fb open fail\n");
+        return -1;
+        }
+        if (cam_open(&cam, cam_path, 640, 480) < 0) {
+            printf("cam open fail: %s\n", cam_path);
+            fb_close(&fb);
+            return -1;
+        }
+        if (cam_start_stream(&cam) < 0) {
+            printf("stream start fail\n");
+            cam_close(&cam);
+            fb_close(&fb);
+            return -1;
+        }
+
+        uint32_t *rgb_buf = malloc(cam.width * cam.height * sizeof(uint32_t));
+        if (!rgb_buf) {
+            printf("malloc rgb fail\n");
+            cam_close(&cam);
+            fb_close(&fb);
+            return -1;
+        }
+        printf("stream running, ctrl+c exit\n");
+
+        while (!g_stop) {
+            uint8_t *data;
+            uint32_t len;
+            int idx = cam_get_frame(&cam, &data, &len);
+            if (idx < 0) break;
+
+            yuyv_to_xrgb8888(data, rgb_buf, cam.width, cam.height, cam.bytesperline);
+            scale_nearest(rgb_buf, fb.vmem, cam.width, cam.height, fb.width, fb.height);
+
+            cam_put_frame(&cam);
+        }
+
+        free(rgb_buf);
+        cam_close(&cam);
+        fb_close(&fb);
+        printf("exit ok\n");
     }
     else
     {

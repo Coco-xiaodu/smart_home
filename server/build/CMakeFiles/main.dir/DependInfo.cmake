@@ -14,7 +14,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/lixiaodu/桌面/smart_home/server/src/main.c" "CMakeFiles/main.dir/src/main.c.o" "gcc" "CMakeFiles/main.dir/src/main.c.o.d"
   "/home/lixiaodu/桌面/smart_home/server/src/mqtt.c" "CMakeFiles/main.dir/src/mqtt.c.o" "gcc" "CMakeFiles/main.dir/src/mqtt.c.o.d"
   "/home/lixiaodu/桌面/smart_home/server/src/pir.c" "CMakeFiles/main.dir/src/pir.c.o" "gcc" "CMakeFiles/main.dir/src/pir.c.o.d"
+  "/home/lixiaodu/桌面/smart_home/server/src/screen.c" "CMakeFiles/main.dir/src/screen.c.o" "gcc" "CMakeFiles/main.dir/src/screen.c.o.d"
   "/home/lixiaodu/桌面/smart_home/server/src/server.c" "CMakeFiles/main.dir/src/server.c.o" "gcc" "CMakeFiles/main.dir/src/server.c.o.d"
+  "/home/lixiaodu/桌面/smart_home/server/src/v4l2.c" "CMakeFiles/main.dir/src/v4l2.c.o" "gcc" "CMakeFiles/main.dir/src/v4l2.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

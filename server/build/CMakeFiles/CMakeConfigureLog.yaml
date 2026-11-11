@@ -21,7 +21,7 @@ events:
       - "uname"
     candidate_directories:
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -32,11 +32,12 @@ events:
       - "/usr/local/games/"
       - "/snap/bin/"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/.npm-global/bin/uname"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/uname"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/uname"
       - "/usr/local/sbin/uname"
       - "/usr/local/bin/uname"
       - "/usr/sbin/uname"
@@ -44,7 +45,7 @@ events:
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -56,8 +57,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "message-v1"
@@ -88,7 +90,7 @@ events:
       - "smake"
     candidate_directories:
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -99,11 +101,12 @@ events:
       - "/usr/local/games/"
       - "/snap/bin/"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/.npm-global/bin/gmake"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/gmake"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/gmake"
       - "/usr/local/sbin/gmake"
       - "/usr/local/bin/gmake"
       - "/usr/sbin/gmake"
@@ -111,7 +114,7 @@ events:
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -123,8 +126,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -147,7 +151,7 @@ events:
       - "arm-buildroot-linux-gnueabihf-gcc"
     candidate_directories:
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -158,11 +162,12 @@ events:
       - "/usr/local/games/"
       - "/snap/bin/"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc"
@@ -176,7 +181,7 @@ events:
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -188,8 +193,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -219,7 +225,7 @@ events:
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -231,8 +237,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "message-v1"
@@ -279,7 +286,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -289,13 +296,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-ar"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -307,8 +315,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -333,7 +342,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -343,13 +352,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-ranlib"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -361,8 +371,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -387,7 +398,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -397,13 +408,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-strip"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -415,8 +427,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -441,7 +454,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -451,13 +464,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-ld"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -469,8 +483,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -495,7 +510,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -505,13 +520,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-nm"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -523,8 +539,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -549,7 +566,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -559,13 +576,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-objdump"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -577,8 +595,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -603,7 +622,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -613,13 +632,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-objcopy"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -631,8 +651,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -657,7 +678,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -667,13 +688,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-readelf"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -685,8 +707,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -711,7 +734,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -721,12 +744,13 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-dlltool"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-dlltool"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-dlltool"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-dlltool"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-dlltool"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-dlltool"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-dlltool"
@@ -736,11 +760,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-dlltool"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-dlltool"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-dlltool"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-dlltool"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-dlltool"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-dlltool"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-dlltool"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/dlltool"
       - "/home/lixiaodu/.npm-global/bin/dlltool"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/dlltool"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/dlltool"
       - "/usr/local/sbin/dlltool"
       - "/usr/local/bin/dlltool"
       - "/usr/sbin/dlltool"
@@ -750,13 +775,14 @@ events:
       - "/usr/games/dlltool"
       - "/usr/local/games/dlltool"
       - "/snap/bin/dlltool"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/dlltool"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/dlltool"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/dlltool"
     found: false
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -768,8 +794,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -794,7 +821,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -804,13 +831,14 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-addr2line"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -822,8 +850,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -848,7 +877,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -858,12 +887,13 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-tapi"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-tapi"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-tapi"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-tapi"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-tapi"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-tapi"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-tapi"
@@ -873,11 +903,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-tapi"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-tapi"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-tapi"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-tapi"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-tapi"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-tapi"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-tapi"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/tapi"
       - "/home/lixiaodu/.npm-global/bin/tapi"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/tapi"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/tapi"
       - "/usr/local/sbin/tapi"
       - "/usr/local/bin/tapi"
       - "/usr/sbin/tapi"
@@ -887,13 +918,14 @@ events:
       - "/usr/games/tapi"
       - "/usr/local/games/tapi"
       - "/snap/bin/tapi"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/tapi"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/tapi"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/tapi"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/tapi"
     found: false
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -905,8 +937,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -933,7 +966,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -943,12 +976,13 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
@@ -958,11 +992,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar-7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
@@ -972,11 +1007,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ar-7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar-7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ar7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ar7"
@@ -986,13 +1022,14 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ar7"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ar7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar7"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ar"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -1004,8 +1041,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -1032,7 +1070,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1042,12 +1080,13 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
@@ -1057,11 +1096,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
@@ -1071,11 +1111,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
@@ -1085,13 +1126,14 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -1103,8 +1145,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -1144,7 +1187,7 @@ events:
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -1156,8 +1199,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -1187,7 +1231,7 @@ events:
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -1199,8 +1243,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "message-v1"
@@ -1249,7 +1294,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1259,12 +1304,13 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
@@ -1274,11 +1320,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar-7.5"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar-7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
@@ -1288,11 +1335,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ar-7"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ar-7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar-7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar-7"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ar7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ar7"
@@ -1302,13 +1350,14 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ar7"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ar7"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ar7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ar7"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ar"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -1320,8 +1369,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "find-v1"
@@ -1348,7 +1398,7 @@ events:
     candidate_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/"
       - "/home/lixiaodu/.npm-global/bin/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1358,12 +1408,13 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/snap/bin/"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/"
     searched_directories:
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
@@ -1373,11 +1424,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib-7.5"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
@@ -1387,11 +1439,12 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib-7"
       - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/home/lixiaodu/.npm-global/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/usr/local/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/usr/local/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/usr/sbin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
@@ -1401,13 +1454,14 @@ events:
       - "/usr/games/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/usr/local/games/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/snap/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
+      - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
       - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
-      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
+      - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim/arm-buildroot-linux-gnueabihf-gcc-ranlib7"
     found: "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc-ranlib"
     search_context:
       ENV{PATH}:
         - "/home/lixiaodu/.npm-global/bin"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/remote-cli"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/remote-cli"
         - "/home/lixiaodu/.npm-global/bin"
         - "/usr/local/sbin"
         - "/usr/local/bin"
@@ -1419,8 +1473,9 @@ events:
         - "/usr/local/games"
         - "/snap/bin"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
+        - "/home/lixiaodu/.vscode-server/extensions/ms-python.debugpy-2026.6.0-linux-x64/bundled/scripts/noConfigScripts"
         - "/home/lixiaodu/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-a717861c07586a53d83b80d742cd3f59b20a6273/server/bin/copilot-shim"
+        - "/home/lixiaodu/.vscode-server/cli/servers/Stable-c4453f8ea430795f941c1b2ff6c9321135a74a02/server/bin/copilot-shim"
         - "/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin"
   -
     kind: "try_compile-v1"
@@ -1431,8 +1486,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/home/lixiaodu/\u684c\u9762/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-DjNHTi"
-      binary: "/home/lixiaodu/\u684c\u9762/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-DjNHTi"
+      source: "/home/lixiaodu/\u684c\u9762/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-sPeZ6Z"
+      binary: "/home/lixiaodu/\u684c\u9762/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-sPeZ6Z"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1441,21 +1496,21 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-DjNHTi'
+        Change Dir: '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-sPeZ6Z'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_012be/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_012be.dir/build.make CMakeFiles/cmTC_012be.dir/build
-        gmake[1]: Entering directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-DjNHTi'
-        Building C object CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o
-        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc   -v -o CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_514ab/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_514ab.dir/build.make CMakeFiles/cmTC_514ab.dir/build
+        gmake[1]: Entering directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-sPeZ6Z'
+        Building C object CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o
+        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc   -v -o CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc.br_real
         Target: arm-buildroot-linux-gnueabihf
         Configured with: ./configure --prefix=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --sysconfdir=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/etc --enable-static --target=arm-buildroot-linux-gnueabihf --with-sysroot=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/arm-buildroot-linux-gnueabihf/sysroot --enable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --disable-decimal-float --with-gmp=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-mpc=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-mpfr=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-pkgversion='Buildroot 2020.02-gee85cab' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --enable-tls --enable-plugins --enable-lto --enable-threads --with-isl=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-abi=aapcs-linux --with-cpu=cortex-a7 --with-fpu=neon-vfpv4 --with-float=hard --with-mode=arm --enable-languages=c,c++,fortran --with-build-time-tools=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/arm-buildroot-linux-gnueabihf/bin --enable-shared --enable-libgomp
         Thread model: posix
         gcc version 7.5.0 (Buildroot 2020.02-gee85cab) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/cc1 -quiet -v -iprefix /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/ -isysroot /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc1MOWJw.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/cc1 -quiet -v -iprefix /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/ -isysroot /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc7sPd0F.s
         GNU C11 (Buildroot 2020.02-gee85cab) version 7.5.0 (arm-buildroot-linux-gnueabihf)
         	compiled by GNU C version 7.5.0, GMP version 6.1.2, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22-GMP
         
@@ -1476,14 +1531,14 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: 301aab3cef35fbf26473394454f2f527
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/as -v -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -meabi=5 -o CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o /tmp/cc1MOWJw.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/as -v -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -meabi=5 -o CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o /tmp/cc7sPd0F.s
         GNU assembler version 2.32 (arm-buildroot-linux-gnueabihf) using BFD version (GNU Binutils) 2.32
         COMPILER_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/
         LIBRARY_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-        Linking C executable cmTC_012be
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_012be.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+        Linking C executable cmTC_514ab
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_514ab.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc.br_real
         COLLECT_LTO_WRAPPER=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper
@@ -1493,14 +1548,14 @@ events:
         gcc version 7.5.0 (Buildroot 2020.02-gee85cab) 
         COMPILER_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/
         LIBRARY_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_012be' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2 -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjKvaWE.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_012be /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_514ab' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2 -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccCBJgjs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_514ab /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o
         collect2 version 7.5.0
-        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjKvaWE.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_012be /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o
+        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccCBJgjs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_514ab /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o
         GNU ld (GNU Binutils) 2.32
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_012be' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc  -v -Wl,-v CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -o cmTC_012be
-        gmake[1]: Leaving directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-DjNHTi'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_514ab' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc  -v -Wl,-v CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -o cmTC_514ab
+        gmake[1]: Leaving directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-sPeZ6Z'
         
       exitCode: 0
   -
@@ -1535,21 +1590,21 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-DjNHTi']
+        ignore line: [Change Dir: '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-sPeZ6Z']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_012be/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_012be.dir/build.make CMakeFiles/cmTC_012be.dir/build]
-        ignore line: [gmake[1]: Entering directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-DjNHTi']
-        ignore line: [Building C object CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc   -v -o CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_514ab/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_514ab.dir/build.make CMakeFiles/cmTC_514ab.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-sPeZ6Z']
+        ignore line: [Building C object CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc   -v -o CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc.br_real]
         ignore line: [Target: arm-buildroot-linux-gnueabihf]
         ignore line: [Configured with: ./configure --prefix=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --sysconfdir=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/etc --enable-static --target=arm-buildroot-linux-gnueabihf --with-sysroot=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/arm-buildroot-linux-gnueabihf/sysroot --enable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --disable-decimal-float --with-gmp=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-mpc=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-mpfr=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-pkgversion='Buildroot 2020.02-gee85cab' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --enable-tls --enable-plugins --enable-lto --enable-threads --with-isl=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-abi=aapcs-linux --with-cpu=cortex-a7 --with-fpu=neon-vfpv4 --with-float=hard --with-mode=arm --enable-languages=c,c++,fortran --with-build-time-tools=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/arm-buildroot-linux-gnueabihf/bin --enable-shared --enable-libgomp]
         ignore line: [Thread model: posix]
         ignore line: [gcc version 7.5.0 (Buildroot 2020.02-gee85cab) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
-        ignore line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/cc1 -quiet -v -iprefix /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/ -isysroot /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc1MOWJw.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+        ignore line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/cc1 -quiet -v -iprefix /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/ -isysroot /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc7sPd0F.s]
         ignore line: [GNU C11 (Buildroot 2020.02-gee85cab) version 7.5.0 (arm-buildroot-linux-gnueabihf)]
         ignore line: [	compiled by GNU C version 7.5.0  GMP version 6.1.2  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22-GMP]
         ignore line: []
@@ -1570,14 +1625,14 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: 301aab3cef35fbf26473394454f2f527]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
-        ignore line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/as -v -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -meabi=5 -o CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o /tmp/cc1MOWJw.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+        ignore line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/as -v -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -meabi=5 -o CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o /tmp/cc7sPd0F.s]
         ignore line: [GNU assembler version 2.32 (arm-buildroot-linux-gnueabihf) using BFD version (GNU Binutils) 2.32]
         ignore line: [COMPILER_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/]
         ignore line: [LIBRARY_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
-        ignore line: [Linking C executable cmTC_012be]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_012be.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+        ignore line: [Linking C executable cmTC_514ab]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_514ab.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc.br_real]
         ignore line: [COLLECT_LTO_WRAPPER=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper]
@@ -1587,13 +1642,13 @@ events:
         ignore line: [gcc version 7.5.0 (Buildroot 2020.02-gee85cab) ]
         ignore line: [COMPILER_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/]
         ignore line: [LIBRARY_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_012be' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
-        link line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2 -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjKvaWE.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_012be /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_514ab' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+        link line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2 -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccCBJgjs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_514ab /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccjKvaWE.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccCBJgjs.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -1607,7 +1662,7 @@ events:
           arg [-m] ==> ignore
           arg [armelf_linux_eabi] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_012be] ==> ignore
+          arg [cmTC_514ab] ==> ignore
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o]
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o]
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o]
@@ -1617,7 +1672,7 @@ events:
           arg [-L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib] ==> dir [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib]
           arg [-L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib] ==> dir [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lgcc] ==> lib [gcc]
           arg [--as-needed] ==> ignore
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -1630,7 +1685,7 @@ events:
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o]
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
         ignore line: [collect2 version 7.5.0]
-        ignore line: [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjKvaWE.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_012be /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_012be.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
+        ignore line: [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccCBJgjs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_514ab /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_514ab.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
         linker tool for 'C': /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld
         collapse obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o] ==> [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o]
         collapse obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o] ==> [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o]
@@ -1664,8 +1719,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/home/lixiaodu/\u684c\u9762/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-Mqypo0"
-      binary: "/home/lixiaodu/\u684c\u9762/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-Mqypo0"
+      source: "/home/lixiaodu/\u684c\u9762/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-JMiwrN"
+      binary: "/home/lixiaodu/\u684c\u9762/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-JMiwrN"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1675,21 +1730,21 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-Mqypo0'
+        Change Dir: '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-JMiwrN'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1034a/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_1034a.dir/build.make CMakeFiles/cmTC_1034a.dir/build
-        gmake[1]: Entering directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-Mqypo0'
-        Building CXX object CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o
-        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++   -v -o CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a4328/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_a4328.dir/build.make CMakeFiles/cmTC_a4328.dir/build
+        gmake[1]: Entering directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-JMiwrN'
+        Building CXX object CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o
+        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++   -v -o CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++.br_real
         Target: arm-buildroot-linux-gnueabihf
         Configured with: ./configure --prefix=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --sysconfdir=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/etc --enable-static --target=arm-buildroot-linux-gnueabihf --with-sysroot=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/arm-buildroot-linux-gnueabihf/sysroot --enable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --disable-decimal-float --with-gmp=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-mpc=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-mpfr=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-pkgversion='Buildroot 2020.02-gee85cab' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --enable-tls --enable-plugins --enable-lto --enable-threads --with-isl=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-abi=aapcs-linux --with-cpu=cortex-a7 --with-fpu=neon-vfpv4 --with-float=hard --with-mode=arm --enable-languages=c,c++,fortran --with-build-time-tools=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/arm-buildroot-linux-gnueabihf/bin --enable-shared --enable-libgomp
         Thread model: posix
         gcc version 7.5.0 (Buildroot 2020.02-gee85cab) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/cc1plus -quiet -v -iprefix /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/ -isysroot /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccHBriIO.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/cc1plus -quiet -v -iprefix /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/ -isysroot /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccJvFXQd.s
         GNU C++14 (Buildroot 2020.02-gee85cab) version 7.5.0 (arm-buildroot-linux-gnueabihf)
         	compiled by GNU C version 7.5.0, GMP version 6.1.2, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22-GMP
         
@@ -1716,14 +1771,14 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: b50adb8b082f2ddde96a6a81ec7e39fe
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/as -v -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -meabi=5 -o CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccHBriIO.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/as -v -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -meabi=5 -o CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccJvFXQd.s
         GNU assembler version 2.32 (arm-buildroot-linux-gnueabihf) using BFD version (GNU Binutils) 2.32
         COMPILER_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/
         LIBRARY_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-        Linking CXX executable cmTC_1034a
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1034a.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+        Linking CXX executable cmTC_a4328
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a4328.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++.br_real
         COLLECT_LTO_WRAPPER=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper
@@ -1733,14 +1788,14 @@ events:
         gcc version 7.5.0 (Buildroot 2020.02-gee85cab) 
         COMPILER_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/
         LIBRARY_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1034a' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2 -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccKeIGEz.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_1034a /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a4328' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+         /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2 -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccXXL7cV.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_a4328 /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o
         collect2 version 7.5.0
-        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccKeIGEz.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_1034a /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o
+        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccXXL7cV.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_a4328 /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o
         GNU ld (GNU Binutils) 2.32
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1034a' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
-        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++  -v -Wl,-v CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_1034a
-        gmake[1]: Leaving directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-Mqypo0'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a4328' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+        /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++  -v -Wl,-v CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_a4328
+        gmake[1]: Leaving directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-JMiwrN'
         
       exitCode: 0
   -
@@ -1781,21 +1836,21 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-Mqypo0']
+        ignore line: [Change Dir: '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-JMiwrN']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1034a/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_1034a.dir/build.make CMakeFiles/cmTC_1034a.dir/build]
-        ignore line: [gmake[1]: Entering directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-Mqypo0']
-        ignore line: [Building CXX object CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++   -v -o CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a4328/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_a4328.dir/build.make CMakeFiles/cmTC_a4328.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/lixiaodu/桌面/smart_home/server/build/CMakeFiles/CMakeScratch/TryCompile-JMiwrN']
+        ignore line: [Building CXX object CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++   -v -o CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++.br_real]
         ignore line: [Target: arm-buildroot-linux-gnueabihf]
         ignore line: [Configured with: ./configure --prefix=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --sysconfdir=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/etc --enable-static --target=arm-buildroot-linux-gnueabihf --with-sysroot=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/arm-buildroot-linux-gnueabihf/sysroot --enable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --disable-decimal-float --with-gmp=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-mpc=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-mpfr=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-pkgversion='Buildroot 2020.02-gee85cab' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --enable-tls --enable-plugins --enable-lto --enable-threads --with-isl=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host --with-abi=aapcs-linux --with-cpu=cortex-a7 --with-fpu=neon-vfpv4 --with-float=hard --with-mode=arm --enable-languages=c,c++,fortran --with-build-time-tools=/home/book/100ask_imx6ull-sdk/Buildroot_2020.02.x/output/host/arm-buildroot-linux-gnueabihf/bin --enable-shared --enable-libgomp]
         ignore line: [Thread model: posix]
         ignore line: [gcc version 7.5.0 (Buildroot 2020.02-gee85cab) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
-        ignore line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/cc1plus -quiet -v -iprefix /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/ -isysroot /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccHBriIO.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+        ignore line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/cc1plus -quiet -v -iprefix /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/ -isysroot /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccJvFXQd.s]
         ignore line: [GNU C++14 (Buildroot 2020.02-gee85cab) version 7.5.0 (arm-buildroot-linux-gnueabihf)]
         ignore line: [	compiled by GNU C version 7.5.0  GMP version 6.1.2  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22-GMP]
         ignore line: []
@@ -1822,14 +1877,14 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: b50adb8b082f2ddde96a6a81ec7e39fe]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
-        ignore line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/as -v -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -meabi=5 -o CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccHBriIO.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+        ignore line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/as -v -mcpu=cortex-a7 -mfloat-abi=hard -mfpu=neon-vfpv4 -meabi=5 -o CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccJvFXQd.s]
         ignore line: [GNU assembler version 2.32 (arm-buildroot-linux-gnueabihf) using BFD version (GNU Binutils) 2.32]
         ignore line: [COMPILER_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/]
         ignore line: [LIBRARY_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
-        ignore line: [Linking CXX executable cmTC_1034a]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1034a.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+        ignore line: [Linking CXX executable cmTC_a4328]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a4328.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-c++.br_real]
         ignore line: [COLLECT_LTO_WRAPPER=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper]
@@ -1839,13 +1894,13 @@ events:
         ignore line: [gcc version 7.5.0 (Buildroot 2020.02-gee85cab) ]
         ignore line: [COMPILER_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/]
         ignore line: [LIBRARY_PATH=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib/:/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1034a' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
-        link line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2 -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccKeIGEz.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_1034a /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a4328' '-shared-libgcc' '-mcpu=cortex-a7' '-mfloat-abi=hard' '-mfpu=neon-vfpv4' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+        link line: [ /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2 -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccXXL7cV.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_a4328 /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccKeIGEz.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccXXL7cV.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -1859,7 +1914,7 @@ events:
           arg [-m] ==> ignore
           arg [armelf_linux_eabi] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_1034a] ==> ignore
+          arg [cmTC_a4328] ==> ignore
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o]
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o]
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o]
@@ -1869,7 +1924,7 @@ events:
           arg [-L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib] ==> dir [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib]
           arg [-L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib] ==> dir [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -1880,7 +1935,7 @@ events:
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o]
           arg [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o] ==> obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
         ignore line: [collect2 version 7.5.0]
-        ignore line: [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccKeIGEz.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_1034a /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_1034a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
+        ignore line: [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld -plugin /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/liblto_plugin.so -plugin-opt=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../libexec/gcc/arm-buildroot-linux-gnueabihf/7.5.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccXXL7cV.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X -m armelf_linux_eabi -o cmTC_a4328 /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crt1.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crti.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0 -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/lib -L/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -v CMakeFiles/cmTC_a4328.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/arm-buildroot-linux-gnueabihf/sysroot/usr/lib/crtn.o]
         linker tool for 'CXX': /home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/../../../../arm-buildroot-linux-gnueabihf/bin/ld
         collapse obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o] ==> [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtbegin.o]
         collapse obj [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o] ==> [/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/crtend.o]

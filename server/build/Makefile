@@ -273,6 +273,30 @@ src/pir.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/pir.c.s
 .PHONY : src/pir.c.s
 
+src/screen.o: src/screen.c.o
+.PHONY : src/screen.o
+
+# target to build an object file
+src/screen.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/screen.c.o
+.PHONY : src/screen.c.o
+
+src/screen.i: src/screen.c.i
+.PHONY : src/screen.i
+
+# target to preprocess a source file
+src/screen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/screen.c.i
+.PHONY : src/screen.c.i
+
+src/screen.s: src/screen.c.s
+.PHONY : src/screen.s
+
+# target to generate assembly for a file
+src/screen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/screen.c.s
+.PHONY : src/screen.c.s
+
 src/server.o: src/server.c.o
 .PHONY : src/server.o
 
@@ -296,6 +320,30 @@ src/server.s: src/server.c.s
 src/server.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/server.c.s
 .PHONY : src/server.c.s
+
+src/v4l2.o: src/v4l2.c.o
+.PHONY : src/v4l2.o
+
+# target to build an object file
+src/v4l2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/v4l2.c.o
+.PHONY : src/v4l2.c.o
+
+src/v4l2.i: src/v4l2.c.i
+.PHONY : src/v4l2.i
+
+# target to preprocess a source file
+src/v4l2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/v4l2.c.i
+.PHONY : src/v4l2.c.i
+
+src/v4l2.s: src/v4l2.c.s
+.PHONY : src/v4l2.s
+
+# target to generate assembly for a file
+src/v4l2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/v4l2.c.s
+.PHONY : src/v4l2.c.s
 
 # Help Target
 help:
@@ -324,9 +372,15 @@ help:
 	@echo "... src/pir.o"
 	@echo "... src/pir.i"
 	@echo "... src/pir.s"
+	@echo "... src/screen.o"
+	@echo "... src/screen.i"
+	@echo "... src/screen.s"
 	@echo "... src/server.o"
 	@echo "... src/server.i"
 	@echo "... src/server.s"
+	@echo "... src/v4l2.o"
+	@echo "... src/v4l2.i"
+	@echo "... src/v4l2.s"
 .PHONY : help
 
 

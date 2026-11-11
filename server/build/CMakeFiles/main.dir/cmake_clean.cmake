@@ -13,8 +13,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/src/mqtt.c.o.d"
   "CMakeFiles/main.dir/src/pir.c.o"
   "CMakeFiles/main.dir/src/pir.c.o.d"
+  "CMakeFiles/main.dir/src/screen.c.o"
+  "CMakeFiles/main.dir/src/screen.c.o.d"
   "CMakeFiles/main.dir/src/server.c.o"
   "CMakeFiles/main.dir/src/server.c.o.d"
+  "CMakeFiles/main.dir/src/v4l2.c.o"
+  "CMakeFiles/main.dir/src/v4l2.c.o.d"
 )
 
 # Per-language clean rules from dependency scanning.
