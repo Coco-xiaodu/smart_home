@@ -1,0 +1,1 @@
+/home/lixiaodu/100ask_imx6ull-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-g++  -O3 CMakeFiles/yolo_ncnn_test.dir/yolo_ncnn_test.cpp.o -o yolo_ncnn_test  /home/lixiaodu/tools/ncnn/build-arm/install/lib/libncnn.a
